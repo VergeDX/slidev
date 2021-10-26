@@ -32,6 +32,8 @@ layout: default
 
 ### 软件（Software）
 
+<p></p>
+
 - <mdi-microsoft/> | 微软（Microsoft）- <mdi-windows/> | Windows
 - <mdi-apple/> | 苹果（Apple）- <carbon-mac-command/> | macOS
 - <mdi-github/> | Linus Torvalds - <mdi-linux/> | Linux
