@@ -1,6 +1,6 @@
 ---
 layout: cover
-background: https://upload.wikimedia.org/wikipedia/commons/e/ec/2008-07-09_Ely_Airport_ASOS_OID.jpg
+background: ./images/2008-07-09_Ely_Airport_ASOS_OID.jpg
 ---
 
 # Welcome
