@@ -46,6 +46,8 @@ background: /2008-07-09_Ely_Airport_ASOS_OID.jpg
 - <mdi-github/> | Linus Torvalds - <mdi-linux/> | Linux
 - <mdi-bell/> | 贝尔实验室 - <logos-gnu/> | Unix
 - <mdi-google/> | 谷歌（Google） - <mdi-android/> | Android
-- ... ...
+
+<p></p><!--suppress HtmlUnknownTarget -->
+<img src="/nixos.svg.png" alt="NixOS" />
 
 </div></div>
