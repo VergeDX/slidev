@@ -1,5 +1,12 @@
 ---
-layout: default
+layout: cover
+background: https://upload.wikimedia.org/wikipedia/commons/e/ec/2008-07-09_Ely_Airport_ASOS_OID.jpg
+---
+
+# Welcome
+
+软工青协 - 义维部 - 第一次 培训
+
 ---
 
 ## 计算机（PC）的组成 \-\- 硬件 + 软件
