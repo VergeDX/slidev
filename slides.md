@@ -75,6 +75,6 @@ background: /2008-07-09_Ely_Airport_ASOS_OID.jpg
 </style>
 
 <div class="grid grid-cols-2">
-<img src="/apdx/Apple_Pro_Display_XDR_and_Mac_Pro_(2019_model)_-_1.jpg" alt="" class="apdx rounded"/>
-<img src="/apdx/Apple_Pro_Display_XDR_and_Mac_Pro_(2019_model)_-_2.jpg" alt="" class="apdx rounded"/>
+<img src="/apdx/Apple_Pro_Display_XDR_and_Mac_Pro_(2019_model)_-_1.jpg" alt="" class="apdx rounded shadow"/>
+<img src="/apdx/Apple_Pro_Display_XDR_and_Mac_Pro_(2019_model)_-_2.jpg" alt="" class="apdx rounded shadow"/>
 </div>
