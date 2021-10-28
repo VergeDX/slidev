@@ -80,6 +80,20 @@ background: /2008-07-09_Ely_Airport_ASOS_OID.jpg
 </div>
 
 ---
+layout: image-right
+image: /monitors/P1030210_(5348710545).jpg
+---
+
+## <mdi-monitor/> | 显示器 - 类型
+
+<p></p>
+
+- 阴极射线管 - CRT（1922 年）<p></p>
+
+<img src="/monitors/Oscilloscopic_tube.jpg" alt="" class="rounded shadow">
+<p style="text-align: center;">示波器中的阴极射线管</p>
+
+---
 
 <!--suppress CssUnusedSymbol -->
 <style>
