@@ -47,9 +47,11 @@ background: /2008-07-09_Ely_Airport_ASOS_OID.jpg
 - <mdi-bell/> | 贝尔实验室 - <logos-gnu/> | Unix
 - <mdi-google/> | 谷歌（Google） - <mdi-android/> | Android
 
-<p></p><!--suppress HtmlUnknownTarget -->
-<img src="/nixos.svg.png" alt="NixOS" />
+<p></p><hr><p></p>
 
+- 这台电脑使用 Linux 发行版 - NixOS
+
+<p></p>
 </div></div>
 
 ---
