@@ -78,3 +78,38 @@ background: /2008-07-09_Ely_Airport_ASOS_OID.jpg
 <img src="/apdx/Apple_Pro_Display_XDR_and_Mac_Pro_(2019_model)_-_1.jpg" alt="" class="apdx rounded shadow"/>
 <img src="/apdx/Apple_Pro_Display_XDR_and_Mac_Pro_(2019_model)_-_2.jpg" alt="" class="apdx rounded shadow"/>
 </div>
+
+---
+
+<!--suppress CssUnusedSymbol -->
+<style>
+.sync{
+  margin: 0 auto;
+  text-align: center;
+}
+
+.qr_code { border-width: 3px; }
+</style>
+
+## <mdi-monitor/> | 显示器 - 性能指标
+
+<div class="grid grid-cols-3">
+<div class="sync"><p></p>
+
+[Apple - Pro Display XDR](https://www.apple.com.cn/pro-display-xdr/specs/)<p></p>
+<img src="/qr_code/apdx_qr.png" alt="" class="shadow qr_code">
+</div>
+<div class="sync">
+
+[小米 - 曲面显示器 34 英寸](https://www.mi.com/monitor34)<p></p>
+<img src="/qr_code/monitor34_qr.png" alt="" class="shadow qr_code">
+</div>
+<div class="sync">
+
+[LG - SIGNATURE ZX 88](https://www.lg.com/us/tvs/lg-oled88zxpua-signature-oled-8k-tv#pdp_spec)<p></p>
+<img src="/qr_code/lg_zx_88.png" alt="" class="shadow qr_code">
+</div>
+</div>
+
+扩展阅读：YouTube - CD / Color | Captain Disillusion  
+https://www.youtube.com/watch?v=FTKP0Y9MVus
