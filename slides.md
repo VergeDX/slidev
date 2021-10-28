@@ -113,6 +113,19 @@ image: /monitors/Amersfoort_LCD_Display_Valleilijn.jpg
 <p style="text-align:center; margin-top: 25px;">液晶显示器构造图</p>
 
 ---
+layout: image-right
+image: /monitors/Lung_Yeuk_Tau_Heritage_Trail111.jpg
+---
+
+## <mdi-monitor/> | 显示器 - 类型 <p></p>
+
+- 发光二极管 - LED（1977 年）
+
+<p></p><hr><p></p>
+<img src="/monitors/CapitalBus_BL10_958FE_Front.jpg" alt="" class="rounded shadow" style="margin-top: 27px;">
+<p style="text-align: center;">公共汽车的 LED 资讯显示牌</p>
+
+---
 
 <!--suppress CssUnusedSymbol -->
 <style>
