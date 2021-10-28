@@ -1,5 +1,5 @@
 ---
-layout: cover
+layout: cover  
 background: /2008-07-09_Ely_Airport_ASOS_OID.jpg
 ---
 
@@ -82,7 +82,7 @@ background: /2008-07-09_Ely_Airport_ASOS_OID.jpg
 </div>
 
 ---
-layout: image-right
+layout: image-right  
 image: /monitors/P1030210_(5348710545).jpg
 ---
 
@@ -113,7 +113,7 @@ image: /monitors/Amersfoort_LCD_Display_Valleilijn.jpg
 <p style="text-align:center; margin-top: 25px;">液晶显示器构造图</p>
 
 ---
-layout: image-right
+layout: image-right  
 image: /monitors/Lung_Yeuk_Tau_Heritage_Trail111.jpg
 ---
 
