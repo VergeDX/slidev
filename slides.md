@@ -96,6 +96,23 @@ image: /monitors/P1030210_(5348710545).jpg
 <p style="text-align: center;">示波器中的阴极射线管</p>
 
 ---
+layout: image-right
+image: /monitors/Amersfoort_LCD_Display_Valleilijn.jpg
+---
+
+## <mdi-monitor/> | 显示器 - 类型
+
+<p></p>
+
+- 液晶显示器 - LCD（1973 年，夏普）
+
+液晶显示器功耗低，因此备受工程师青睐，  
+适用于使用电池的电子设备。
+
+![](/monitors/LCD_structure.JPG)
+<p style="text-align:center; margin-top: 25px;">液晶显示器构造图</p>
+
+---
 
 <!--suppress CssUnusedSymbol -->
 <style>
