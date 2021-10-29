@@ -238,3 +238,27 @@ image: /monitors/Lung_Yeuk_Tau_Heritage_Trail111.jpg
 
 扩展阅读：YouTube - CD / Color | Captain Disillusion  
 https://www.youtube.com/watch?v=FTKP0Y9MVus
+
+---
+
+## <mdi-chip/> | 主板 <p></p>
+
+典型的主板能提供一系列接合点，供处理器、显卡、硬盘驱动器、存储器、对外设备等设备接合。
+<hr><p></p>
+<div class="grid grid-cols-2 gap-7">
+<img src="/motherboard/Intel_D945GCCR_Socket_775.png" alt=""/>
+<div>
+
+### BIOS
+
+是在通电启动阶段运行硬件初始化，  
+以及为操作系统提供运行时服务的固件。
+
+<hr>
+
+![](/motherboard/riscv-sbi-intro1.png)
+
+</div>
+</div>
+
+---
