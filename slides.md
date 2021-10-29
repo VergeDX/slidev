@@ -9,7 +9,47 @@ background: /2008-07-09_Ely_Airport_ASOS_OID.jpg
 
 ---
 
-## 计算机（PC）的组成 \-\- 硬件 + 软件
+## 部门简介
+
+<div class="grid grid-cols-2"><div>
+
+软件工程学院特色，隶属于青年志愿者协会。  
+义维部，即义务维修部门。
+
+<hr style="margin: 0 57px 0 0;"><p></p>
+
+### 活动 <p></p>
+
+- 电脑义诊 - 2 天 / 每学期（期末）
+    - 硬件修理（拆机清灰）
+    - 软件安装（Windows、PS、Office 等）
+- 青协活动优先参与资格
+    - Office 培训
+    - 公益活动（联谊，植树节，敬老院）
+    - ... ...
+
+</div>
+<div>
+
+### 关于我
+
+计算机系大三学生，主修软件工程（软件开发）
+
+办公地点：一教 1605 工作室
+
+<hr><p></p>
+
+### 联系方式
+
+- <mdi-qqchat/> | QQ: 1339638753
+- <mdi-wechat/> | WeChat: haruka_camber
+
+- <logos-telegram/> | Telegram: [@My_Aim_Sucks](https://t.me/My_Aim_Sucks)
+- <logos-github-icon/> | GitHub: [VergeDX](https://github.com/VergeDX)
+- <logos-steam/> | Steam: [osu_Vanilla](https://steamcommunity.com/id/osu_Vanilla/)
+
+</div>
+</div>
 
 **计算机** 可以指：电子计算机、电子计算器、个人计算机、机械计算机、量子计算机、... ...
 
