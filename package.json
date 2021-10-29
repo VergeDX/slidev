@@ -13,6 +13,7 @@
   "name": "slidev",
   "devDependencies": {
     "@iconify-json/logos": "^1.0.1",
-    "@iconify-json/mdi": "^1.0.7"
+    "@iconify-json/mdi": "^1.0.7",
+    "playwright-chromium": "^1.16.2"
   }
 }
