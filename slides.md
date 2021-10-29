@@ -3,9 +3,9 @@ layout: cover
 background: /2008-07-09_Ely_Airport_ASOS_OID.jpg
 ---
 
-# Welcome
+# 欢迎
 
-软工青协 - 义维部 - 第一次 培训
+软工青协 - 义维部 - 第 1 次 培训
 
 ---
 
