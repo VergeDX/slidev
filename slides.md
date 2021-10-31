@@ -262,3 +262,67 @@ https://www.youtube.com/watch?v=FTKP0Y9MVus
 </div>
 
 ---
+
+## <mdi-cpu-32-bit/> / <mdi-cpu-64-bit/> | 中央处理器 - CPU
+
+计算机的主要设备之一，功能主要是 **解释** 计算机指令以及 **处理** 计算机软件中的数据。
+
+<div class="grid grid-cols-2 gap-7">
+<div>
+
+> 在计算机底层，处理器只能做一些小事情  
+> 他们可以读取和写入内存，可以做数学计算  
+> 现代处理器可以做其他事，但这就是基本上它做的事
+</div>
+<div>
+
+YouTube - How do computers read code?
+https://www.youtube.com/watch?v=QXjU9qTsYCc
+
+</div>
+</div>
+
+<p></p><hr><p></p>
+
+<div class="grid grid-cols-3 gap-7">
+<div>
+
+```````c
+#include <stdio.h>
+
+int main() {
+    printf("Hello World! \n");
+    return 0;
+}
+```````
+
+</div>
+<div>
+
+```````c
+int main() {
+    int aVar = 7;
+    int bVar = 13;
+    int cVar = aVar + bVar;
+
+    return 0;
+}
+```````
+
+</div>
+
+<div>
+
+为什么计算机可以读懂这些代码？
+
+计算机如何运行它们？
+
+执行代码时发生了什么？
+
+</div>
+
+</div>
+
+<p></p><hr>
+
+C 语言程序设计 -> 计算机组成原理 -> 汇编语言
