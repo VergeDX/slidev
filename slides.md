@@ -51,13 +51,16 @@ background: /2008-07-09_Ely_Airport_ASOS_OID.jpg
 </div>
 </div>
 
-**计算机** 可以指：电子计算机、电子计算器、个人计算机、机械计算机、量子计算机、... ...
+---
 
+## 计算机（PC）的组成 - 硬件 + 软件
+
+**计算机** 可以指：电子计算机、电子计算器、个人计算机、机械计算机、量子计算机、... ...  
 今天要讨论的主要是 **个人电脑**（Personal Computer, PC），分为常见的 **台式机** 与 **笔记本电脑**。
 
 <!--suppress CheckEmptyScriptTag, HtmlUnknownTarget, SpellCheckingInspection -->
 <hr class="rounded"><p></p>
-<div class="grid grid-cols-2 gap-4">
+<div class="grid grid-cols-2">
 <div>
 
 ### 硬件（Hardware）
@@ -86,6 +89,7 @@ background: /2008-07-09_Ely_Airport_ASOS_OID.jpg
 - <mdi-github/> | Linus Torvalds - <mdi-linux/> | Linux
 - <mdi-bell/> | 贝尔实验室 - <logos-gnu/> | Unix
 - <mdi-google/> | 谷歌（Google） - <mdi-android/> | Android
+- ... ...
 
 <p></p><hr><p></p>
 
@@ -107,7 +111,7 @@ background: /2008-07-09_Ely_Airport_ASOS_OID.jpg
 在对角线长度一定情况下，宽高比值越接近 1，实际面积则越大。宽屏幕比较符合人眼视野区域形状。
 
 <!-- https://stackoverflow.com/questions/6382023/changing-the-color-of-an-hr-element -->
-<hr style="border-color: white;"><p></p>
+<hr style="border-color: white;">
 
 <style>
 .apdx{
@@ -126,23 +130,21 @@ layout: image-right
 image: /monitors/P1030210_(5348710545).jpg
 ---
 
-## <mdi-monitor/> | 显示器 - 类型
+## <mdi-monitor/> | 显示器 - 类型 <p></p>
 
-<p></p>
+- 阴极射线管 - CRT（1922 年）
 
-- 阴极射线管 - CRT（1922 年）<p></p>
+曾广泛应用于示波器、电视机和显示器上。
 
 <img src="/monitors/Oscilloscopic_tube.jpg" alt="" class="rounded shadow">
 <p style="text-align: center;">示波器中的阴极射线管</p>
 
 ---
-layout: image-right
+layout: image-right  
 image: /monitors/Amersfoort_LCD_Display_Valleilijn.jpg
 ---
 
-## <mdi-monitor/> | 显示器 - 类型
-
-<p></p>
+## <mdi-monitor/> | 显示器 - 类型 <p></p>
 
 - 液晶显示器 - LCD（1973 年，夏普）
 
@@ -213,10 +215,14 @@ image: /monitors/Lung_Yeuk_Tau_Heritage_Trail111.jpg
   text-align: center;
 }
 
-.qr_code { border-width: 3px; }
+.qr_code {
+  border-width: 3px;
+  max-width: 79%;
+  margin: 0 auto;
+}
 </style>
 
-## <mdi-monitor/> | 显示器 - 性能指标
+## <mdi-monitor/> | 显示器 - 性能指标 <p></p>
 
 <div class="grid grid-cols-3">
 <div class="sync"><p></p>
@@ -236,8 +242,10 @@ image: /monitors/Lung_Yeuk_Tau_Heritage_Trail111.jpg
 </div>
 </div>
 
-扩展阅读：YouTube - CD / Color | Captain Disillusion  
-https://www.youtube.com/watch?v=FTKP0Y9MVus
+<p></p>
+
+- 扩展阅读：YouTube - CD / Color | Captain Disillusion  
+  https://www.youtube.com/watch?v=FTKP0Y9MVus
 
 ---
 
